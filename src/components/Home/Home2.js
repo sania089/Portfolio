@@ -16,13 +16,9 @@ function Home2() {
               Let me <span className="purple"> Introduce </span> Myself,
             </h1>
             <p className="home-about-body">
-            I have knowledge of coding languages such as Python, C, Java, and HTML. 
-            Interested in Data Science and Web development. 
+            I have knowledge of coding languages such as Python, C, C++, Java, Javascript and HTML. 
               <br />
-              <br />I am fluent in classics like
-              <i>
-                <b className="purple"> C++, C, Python, Java, Javascript and more. </b>
-              </i>
+              <br />
               <br />
               <br />
               My field of Interest's are &nbsp;
