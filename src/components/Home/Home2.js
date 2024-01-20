@@ -19,8 +19,6 @@ function Home2() {
             I have knowledge of coding languages such as Python, C, C++, Java, Javascript and HTML. 
               <br />
               <br />
-              <br />
-              <br />
               My field of Interest's are &nbsp;
               <i>
                 <b className="purple">Web Development, Data Science, Machine Learning and</b> and
