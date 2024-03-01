@@ -68,7 +68,7 @@ function Projects() {
               title="Expense Tracker app"
               description="Made an Expense Tracker application using MongoDB, Express, Node.js, and React. This application allows users to
               manage and track their expenses, offering featuresfor expense entry, categorization, and reporting. This project demonstrates proficiency in
-              full-stack development and database managemenT"
+              full-stack development and database management"
               ghLink="https://github.com/sania089/ExpenseTracker"
             />
           </Col>
